@@ -18,8 +18,6 @@ def fetch_data(api_url):
             break
         data.extend(items)
         page += 1
-        if page == 1:
-          break
         
     return data
 
