@@ -1,9 +1,5 @@
 # beyond-chats-assgn
 
-
-
-Certainly! Below is a simple README file outlining instructions for setting up and running the Python file:
-
 ---
 
 # Instructions
